@@ -1,2 +1,4 @@
 name: Joanna Gyory
 markdown: kramdown
+
+theme: jekyll-theme-cayman
