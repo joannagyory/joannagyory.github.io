@@ -5,3 +5,5 @@ date: 2019-10-31
 ---
 
 Here it is, my first blog post! A great way to celebrate Halloween.
+
+![Image](https://.github.com/images/JackOLanterns.png)
